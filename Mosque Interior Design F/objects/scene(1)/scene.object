@@ -1,0 +1,177 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Prayer carpet",
+  "identifier": "master3_d_object_model:2621-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+  "sourceIdentifier": "asset_collection_model:2625-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 11.498231887817383,
+  "globalScaleFactor": 0.36600130927172764,
+  "height": 0.305400013923645,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 5.464461326599121,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "7dc359201da949a0aa74106192e385f7.fbx",
+      "identifier": "sceneObject:2605-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.570796251296997,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 0.9999999403953552,
+        "sz": 0.9999999403953552,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:2607-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "Plane.001",
+              "identifier": "sceneObject:2609-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707964897155762,
+                "ry": 0,
+                "rz": 0,
+                "sx": 574.91162109375,
+                "sy": 574.91162109375,
+                "sz": 574.91162109375,
+                "x": -5.689746856689453,
+                "y": 0.3377491235733032,
+                "z": -1.5202794075012207
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "Plane.001_Material.006_0",
+                  "identifier": "mesh:2611-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "nodeName": "Plane.001_Material.006_0",
+                  "numberOfFaces": 16179,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:2615-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:2613-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:2618-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:2599-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+                          "surfaceGroupIdentifier": "2619-5d6704ad-b566-472c-b0e2-bc68e2a3304d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "add-button",
+  "identifier": "texture:4153017-5d6704ad-b566-472c-b0e2-bc68e2a3304d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "78e38fa6082b37914faa3c4528e5eea2",
+  "assetLocator": "textures/add-button.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "78e38fa6082b37914faa3c4528e5eea2",
+      "colorCount": 3281,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.4952128545147756,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
